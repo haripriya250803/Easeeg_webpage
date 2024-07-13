@@ -1,0 +1,12 @@
+.group-7 .plan-your-trip-with-easeeguide {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 64px;
+  color: #FFFFFF;
+}
+.group-7 {
+  display: flex;
+  width: 978px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,194 @@
+.desktop-2 .vector {
+  position: relative;
+  margin-bottom: 40px;
+  align-self: flex-start;
+  width: 38px;
+  height: 49px;
+}
+.desktop-2 .sign-in {
+  margin: 0 8px 47px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 64px;
+  color: #000000;
+}
+.desktop-2 .rectangle-41 {
+  border-radius: 10px;
+  border: 4px solid rgba(0, 0, 0, 0.48);
+  margin-right: 35px;
+  width: 81px;
+  height: 77px;
+}
+.desktop-2 .rectangle-42 {
+  border-radius: 10px;
+  border: 4px solid rgba(0, 0, 0, 0.48);
+  margin-right: 35px;
+  width: 81px;
+  height: 77px;
+}
+.desktop-2 .rectangle-43 {
+  border-radius: 10px;
+  border: 4px solid rgba(0, 0, 0, 0.48);
+  margin-right: 34px;
+  width: 81px;
+  height: 77px;
+}
+.desktop-2 .rectangle-44 {
+  border-radius: 10px;
+  border: 4px solid rgba(0, 0, 0, 0.48);
+  width: 81px;
+  height: 77px;
+}
+.desktop-2 .container-2 {
+  margin: 0 1px 38px 0;
+  display: flex;
+  flex-direction: row;
+  width: 428px;
+  box-sizing: border-box;
+}
+.desktop-2 .or-use-your-email-password {
+  margin: 0 0 39px 28px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 32px;
+  color: rgba(0, 0, 0, 0.41);
+}
+.desktop-2 .abcdef {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 32px;
+  color: rgba(0, 0, 0, 0.41);
+}
+.desktop-2 .container-5 {
+  border-radius: 15px;
+  background: rgba(217, 217, 217, 0.62);
+  position: relative;
+  margin: 0 0 50px 9px;
+  padding: 23px 20.5px 28px 20.5px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-2 .container {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 40px;
+  color: rgba(0, 0, 0, 0.41);
+}
+.desktop-2 .container-3 {
+  border-radius: 15px;
+  background: rgba(217, 217, 217, 0.62);
+  position: relative;
+  margin: 0 0 100px 9px;
+  padding: 18px 20.4px 24px 20.4px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-2 .forget-your-password {
+  margin: 0 0 47px 27px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 32px;
+  color: rgba(0, 0, 0, 0.41);
+}
+.desktop-2 .sign-in-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 32px;
+  color: #FFFFFF;
+}
+.desktop-2 .container-4 {
+  border-radius: 15px;
+  background: #046988;
+  position: relative;
+  margin-left: 27px;
+  display: flex;
+  padding: 20px 0 19px 0;
+  width: 352px;
+  box-sizing: border-box;
+}
+.desktop-2 .container-6 {
+  margin: 47px 86px 61px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 569px;
+  box-sizing: border-box;
+}
+.desktop-2 .hello-traveler {
+  margin: 0 0 51px 40.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 64px;
+  color: #FFFFFF;
+}
+.desktop-2 .register-with-your-personal-details-to-use-all-of-site-features {
+  margin-bottom: 89px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 32px;
+  color: #FFFFFF;
+}
+.desktop-2 .sign-up {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 36px;
+  color: #FFFFFF;
+}
+.desktop-2 .container-7 {
+  border-radius: 10px;
+  border: 4px solid #E07D45;
+  position: relative;
+  margin-left: 16px;
+  display: flex;
+  padding: 20px 15px 20px 0;
+  width: 307px;
+  box-sizing: border-box;
+}
+.desktop-2 .container-1 {
+  border-radius: 242px 30px 30px 253px;
+  background: linear-gradient(271.27deg, #0FA175 1.2%, #046988 99%);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 27px;
+  box-sizing: border-box;
+}
+.desktop-2 .container {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.desktop-2 .ellipse-5 {
+  box-shadow: 7px 0px 4px 0px rgba(0, 0, 0, 0.66);
+  border-radius: 35px;
+  position: absolute;
+  left: 43px;
+  top: 45px;
+  width: 70px;
+  height: 70px;
+}
+.desktop-2 {
+  background: #FFFFFF;
+  display: flex;
+  padding: 8px 5px 7px 59px;
+  width: 1440px;
+  box-sizing: border-box;
+}
